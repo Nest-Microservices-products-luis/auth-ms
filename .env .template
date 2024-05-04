@@ -1,0 +1,6 @@
+PORT=3004
+NATS_SERVERS='nats://nats-server:4222'
+
+DATABASE_URL=mongodb+srv://user:password@aurh-microservice-db.nsxios5.mongodb.net/AuthDB
+
+JWT_SECRET=DSDSDSDSDWEWEWEWE
